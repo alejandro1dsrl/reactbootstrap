@@ -1,0 +1,15 @@
+Investigar
+Qué es React-Bootstrap.
+React-Bootstrap es una librería que toma todas las herramientas del Bootstrap clásico y las convierte en componentes de React. Su función principal es permitirnos construir páginas web profesionales y adaptables (responsivas) sin tener que escribir mucho código CSS manual, usando etiquetas especiales como <Button> o <Navbar> en lugar de etiquetas HTML comunes.
+La gran ventaja es que es mucho más limpio y moderno, ya que elimina la necesidad de usar librerías antiguas como jQuery. Al trabajar con componentes puros de React, el código es más fácil de organizar y permite que la página sea más rápida y eficiente, integrándose perfectamente con el funcionamiento interno de nuestra aplicación.
+
+
+Para qué se utiliza en aplicaciones React.
+Se utiliza principalmente para acelerar el diseño de la interfaz, ofreciendo una colección de piezas listas para usar (como formularios, menús y botones) que ya vienen con estilos profesionales. Esto evita que el desarrollador tenga que inventar el diseño desde cero, garantizando que la aplicación se vea bien en computadoras, tablets y celulares de forma automática.
+Además, sirve para mejorar la interactividad de la aplicación. Al ser componentes de React, estos elementos pueden reaccionar fácilmente a los cambios de información (estados), permitiendo que cosas como abrir una tarjeta o navegar por el menú sucedan de forma fluida, organizada y sin errores de compatibilidad.
+
+
+Qué ventajas tiene frente al uso de Bootstrap tradicional.
+La ventaja principal es que elimina la dependencia de jQuery, una librería antigua que el Bootstrap tradicional necesitaba para funcionar. Al ser componentes puros de React, la aplicación es más ligera, carga más rápido y evita conflictos visuales, ya que React tiene el control total de lo que sucede en la pantalla a través de su DOM virtual.
+
+Otra gran ventaja es la limpieza del código. Mientras que en el Bootstrap tradicional tienes que escribir clases de texto muy largas y difíciles de leer, en React-Bootstrap usas propiedades claras como variant o size. Esto hace que el código sea mucho más fácil de entender para otros programadores y más sencillo de corregir si algo falla.
